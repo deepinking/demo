@@ -1,6 +1,6 @@
 #DEMO PROJECT README
 
-This is a samplw readme file
+This is a sample readme file
 
 ##Heading 2
 
