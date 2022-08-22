@@ -1,3 +1,7 @@
-fofjsfjdffifjsdfsfsdfsdfssf
+#DEMO PROJECT README
 
-I hope this isn't much of a problem
+This is a samplw readme file
+
+##Heading 2
+
+Just something going on
